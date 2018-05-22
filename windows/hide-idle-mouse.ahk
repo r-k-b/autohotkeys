@@ -1,5 +1,7 @@
 ;; https://github.com/r-k-b/autohotkeys
 
+; see also: https://gist.github.com/r-k-b/783ecb4d4bb14a1fadc6f2ce95af0bae
+
 Last_Move := A_TickCount
 State := True
 
