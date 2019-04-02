@@ -4,7 +4,7 @@
 
 ; - Insert ISO 8601 Date Time stamp
 ;
-; Home: https://bitbucket.org/snippets/bigbluedigital/LRg5e
+; Home: https://github.com/r-k-b/autohotkeys/blob/master/windows/insert-date.ahk
 ; 
 ; [Ctrl] + [Numpad0]
 ; A date like 2016-03-23
